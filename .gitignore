@@ -1,1 +1,4 @@
-install_scripts/*.deb
+*.deb
+*.md
+*.zip
+*.txt
