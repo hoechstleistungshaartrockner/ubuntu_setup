@@ -1,3 +1,4 @@
-# Installation script for curl
+# Installation Script for curl
+# ----------------------------
 
 sudo apt install curl
