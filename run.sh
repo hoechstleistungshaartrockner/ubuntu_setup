@@ -2,6 +2,7 @@
 cd install_scripts
 . curl.sh
 . vim.sh
+. ssh.sh
 . git.sh
 . vscode.sh
 . micromamba.sh
