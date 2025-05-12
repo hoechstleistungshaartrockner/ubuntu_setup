@@ -6,4 +6,8 @@ cd install_scripts
 . vscode.sh
 . micromamba.sh
 . brave_browser.sh
-. protonvpn.sh
+. proton_vpn.sh
+. proton_mail.sh
+. proton_pass.sh
+. eurkey_keyboard_layout.sh
+. discord.sh
