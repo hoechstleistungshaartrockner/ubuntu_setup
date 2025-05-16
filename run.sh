@@ -12,4 +12,5 @@ cd install_scripts
 . proton_pass.sh
 . eurkey_keyboard_layout.sh
 . discord.sh
+. signal.sh
 . tools.sh
