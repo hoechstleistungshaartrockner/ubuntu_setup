@@ -13,4 +13,5 @@ cd install_scripts
 . eurkey_keyboard_layout.sh
 . discord.sh
 . signal.sh
+. zoom.sh
 . tools.sh
